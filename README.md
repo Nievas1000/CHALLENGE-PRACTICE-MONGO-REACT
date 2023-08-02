@@ -1,4 +1,4 @@
-# Shaw and Partners FullStack Challenge
+# Challenge to Practice
 
 ## Front-End Technologies
 
